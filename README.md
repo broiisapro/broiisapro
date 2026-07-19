@@ -29,7 +29,6 @@
 
 <!-- BADGES -->
 <p align="center">
-  <a href="https://github.com/broiisapro"><img src="https://img.shields.io/badge/repos-63-1e293b?style=flat&logo=github" alt="repos"/></a>
   <a href="https://github.com/broiisapro"><img src="https://img.shields.io/badge/Magic%20Hour-YC%20Backed-6366f1?style=flat&labelColor=1e293b" alt="Magic Hour"/></a>
   <a href="https://github.com/broiisapro"><img src="https://img.shields.io/badge/DECA%20Ontario-AI%20Platform-06b6d4?style=flat&labelColor=1e293b" alt="DECA Ontario"/></a>
   <a href="https://github.com/broiisapro"><img src="https://img.shields.io/badge/FRC%20Robotics-Blue%20Banner-22c55e?style=flat&labelColor=1e293b" alt="FRC"/></a>
@@ -51,7 +50,7 @@
       <div style="font-size: 0.75em; color: #64748b; letter-spacing: 0.1em;">PREVIOUS</div>
       <div style="font-weight: 600; color: #e2e8f0;">Software Engineering Intern</div>
       <div style="font-size: 0.8em; color: #64748b;">DECA Ontario</div>
-      <div style="font-size: 0.75em; color: #64748b; margin-top: 0.25em;">Built an AI-powered case evaluation platform</div>
+      <div style="font-size: 0.75em; color: #64748b; margin-top: 0.25em;">AI-powered case evaluation platform</div>
     </td>
     <td width="200" align="center" style="padding: 1.2em 1.5em; border: 1px solid #1e293b; border-left: none;">
       <div style="font-size: 0.75em; color: #64748b; letter-spacing: 0.1em;">FOCUS</div>
@@ -95,7 +94,7 @@ A full-stack content intelligence platform for data-driven LinkedIn growth. Buil
 
 `Next.js 14` `TypeScript` `Prisma` `SQLite` `Claude API` `React`
 
-🔒 Private
+🔒 Proprietary
 
   </td>
   <td width="50%" valign="top" style="padding: 1em;">
@@ -132,7 +131,7 @@ Detects physical knocks on Apple Silicon MacBooks using IOKit HID accelerometer 
 
 `Swift` `SwiftUI` `IOKit HID` `CoreGraphics` `Combine`
 
-🔒 Private
+🔒 Internal
 
   </td>
   <td width="33%" valign="top" style="padding: 1em;">
@@ -147,7 +146,7 @@ High-fidelity mission control interface for planetary assessment. Composite Plan
 
 `React` `Three.js` `Node.js` `OpenRouter AI` `Recharts` `Zustand`
 
-🔒 Private
+🔒 Internal
 
   </td>
   <td width="33%" valign="top" style="padding: 1em;">
@@ -220,7 +219,7 @@ Interactive dashboard with pie, bar, and line charts for income/expense analysis
 
 `Next.js 16` `TypeScript` `Recharts` `Zod` `Tailwind CSS`
 
-🔒 Private
+🔒 Internal
 
   </td>
   <td width="33%" valign="top" style="padding: 1em;">
@@ -232,7 +231,7 @@ Interactive dashboard with pie, bar, and line charts for income/expense analysis
 
 Workout logging, cycling, BJJ practice, sleep tracking, and weight trends. Streak tracking for consistency. Personalized weekly workout checklists. Progress visualizations over configurable time windows.
 
-🔒 Private
+🔒 Internal
 
   </td>
   <td width="33%" valign="top" style="padding: 1em;">
@@ -713,16 +712,6 @@ Mechanical Systems
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div style="font-size: 0.8em; color: #475569;">
-  <span style="color: #60a5fa;">63</span> repositories · 
-  <span style="color: #a78bfa;">6</span> languages · 
-  <span style="color: #34d399;">AI</span> · 
-  <span style="color: #f472b6;">Full-Stack</span> · 
-  <span style="color: #fbbf24;">Robotics</span>
-</div>
 
 <br/><br/>
 
