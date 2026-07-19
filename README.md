@@ -20,7 +20,8 @@
 </h1>
 
 <p align="center" style="font-size: 1.15em; color: #94a3b8; max-width: 640px; margin: 0.5em auto; line-height: 1.6;">
-  AI systems · Full-stack · Automation · Robotics<br/>
+  Software Engineering Intern @ Magic Hour (YC W24)<br/>
+  AI Systems · Full Stack · Automation · Robotics · Developer Tooling<br/>
   Incoming Mechatronics & Robotics @ Queen's University
 </p>
 
@@ -28,7 +29,7 @@
 
 <!-- BADGES -->
 <p align="center">
-  <a href="https://github.com/broiisapro"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbroiisapro&query=%24.public_repos&style=flat&label=repos&color=1e293b&logo=github" alt="repos"/></a>
+  <a href="https://github.com/broiisapro"><img src="https://img.shields.io/badge/repos-63-1e293b?style=flat&logo=github" alt="repos"/></a>
   <a href="https://github.com/broiisapro"><img src="https://img.shields.io/badge/Magic%20Hour-YC%20Backed-6366f1?style=flat&labelColor=1e293b" alt="Magic Hour"/></a>
   <a href="https://github.com/broiisapro"><img src="https://img.shields.io/badge/DECA%20Ontario-AI%20Platform-06b6d4?style=flat&labelColor=1e293b" alt="DECA Ontario"/></a>
   <a href="https://github.com/broiisapro"><img src="https://img.shields.io/badge/FRC%20Robotics-Blue%20Banner-22c55e?style=flat&labelColor=1e293b" alt="FRC"/></a>
@@ -43,13 +44,14 @@
   <tr>
     <td width="200" align="center" style="padding: 1.2em 1.5em; border: 1px solid #1e293b; border-radius: 8px;">
       <div style="font-size: 0.75em; color: #64748b; letter-spacing: 0.1em;">CURRENT</div>
-      <div style="font-weight: 600; color: #e2e8f0;">YC Startup Intern</div>
-      <div style="font-size: 0.8em; color: #64748b;">Magic Hour</div>
+      <div style="font-weight: 600; color: #e2e8f0;">Software Engineering Intern</div>
+      <div style="font-size: 0.8em; color: #64748b;">Magic Hour (YC W24)</div>
     </td>
     <td width="200" align="center" style="padding: 1.2em 1.5em; border: 1px solid #1e293b; border-left: none;">
-      <div style="font-size: 0.75em; color: #64748b; letter-spacing: 0.1em;">BUILDING</div>
-      <div style="font-weight: 600; color: #e2e8f0;">LinkedIn Growth OS</div>
-      <div style="font-size: 0.8em; color: #64748b;">10k lines · 41 components</div>
+      <div style="font-size: 0.75em; color: #64748b; letter-spacing: 0.1em;">PREVIOUS</div>
+      <div style="font-weight: 600; color: #e2e8f0;">Software Engineering Intern</div>
+      <div style="font-size: 0.8em; color: #64748b;">DECA Ontario</div>
+      <div style="font-size: 0.75em; color: #64748b; margin-top: 0.25em;">Built an AI-powered case evaluation platform</div>
     </td>
     <td width="200" align="center" style="padding: 1.2em 1.5em; border: 1px solid #1e293b; border-left: none;">
       <div style="font-size: 0.75em; color: #64748b; letter-spacing: 0.1em;">FOCUS</div>
@@ -63,8 +65,7 @@
 
 <!-- SUBTITLE -->
 <p align="center" style="font-size: 0.95em; color: #64748b; max-width: 560px; margin: 1em auto; line-height: 1.7;">
-  I build systems that ship. From low-level hardware signal processing to LLM orchestration layers, 
-  I work across the stack and ship fast. Every project is a production system, not a tutorial.
+  I build systems that ship. From low-level hardware to LLM orchestration, I work across the full stack.
 </p>
 
 <br/>
@@ -94,7 +95,7 @@ A full-stack content intelligence platform for data-driven LinkedIn growth. Buil
 
 `Next.js 14` `TypeScript` `Prisma` `SQLite` `Claude API` `React`
 
-→ *Private repository*
+🔒 Private
 
   </td>
   <td width="50%" valign="top" style="padding: 1em;">
@@ -131,7 +132,7 @@ Detects physical knocks on Apple Silicon MacBooks using IOKit HID accelerometer 
 
 `Swift` `SwiftUI` `IOKit HID` `CoreGraphics` `Combine`
 
-→ *Private repository*
+🔒 Private
 
   </td>
   <td width="33%" valign="top" style="padding: 1em;">
@@ -146,7 +147,7 @@ High-fidelity mission control interface for planetary assessment. Composite Plan
 
 `React` `Three.js` `Node.js` `OpenRouter AI` `Recharts` `Zustand`
 
-→ *Private repository*
+🔒 Private
 
   </td>
   <td width="33%" valign="top" style="padding: 1em;">
@@ -219,7 +220,7 @@ Interactive dashboard with pie, bar, and line charts for income/expense analysis
 
 `Next.js 16` `TypeScript` `Recharts` `Zod` `Tailwind CSS`
 
-→ *Private repository*
+🔒 Private
 
   </td>
   <td width="33%" valign="top" style="padding: 1em;">
@@ -231,7 +232,7 @@ Interactive dashboard with pie, bar, and line charts for income/expense analysis
 
 Workout logging, cycling, BJJ practice, sleep tracking, and weight trends. Streak tracking for consistency. Personalized weekly workout checklists. Progress visualizations over configurable time windows.
 
-→ *Private repository*
+🔒 Private
 
   </td>
   <td width="33%" valign="top" style="padding: 1em;">
@@ -526,7 +527,7 @@ Mechanical Systems
     </td>
     <td width="50%" valign="top" style="padding: 1em; border: 1px solid #1e293b; border-radius: 8px;">
       <div style="font-size: 0.7em; color: #a78bfa; letter-spacing: 0.1em; margin-bottom: 0.5em;">● INTERN</div>
-      <div style="font-weight: 600; font-size: 1.2em; color: #e2e8f0;">Magic Hour (YC)</div>
+      <div style="font-weight: 600; font-size: 1.2em; color: #e2e8f0;">Magic Hour (YC W24)</div>
       <div style="color: #64748b; font-size: 0.85em;">
         AI research, rapid prototyping, LLM workflows, and proof-of-concept systems for product exploration.
       </div>
@@ -589,7 +590,7 @@ Mechanical Systems
     <td width="16%" align="center" style="padding: 1em;">
       <div style="font-size: 1.5em; margin-bottom: 0.3em;">🚀</div>
       <div style="font-size: 0.75em; color: #64748b; letter-spacing: 0.05em;">MID 2026</div>
-      <div style="font-size: 0.85em; color: #e2e8f0; font-weight: 500;">Magic Hour (YC)</div>
+      <div style="font-size: 0.85em; color: #e2e8f0; font-weight: 500;">Magic Hour (YC W24)</div>
       <div style="font-size: 0.75em; color: #64748b;">Software Engineering Intern</div>
     </td>
     <td width="16%" align="center" style="padding: 1em;">
@@ -677,12 +678,6 @@ Mechanical Systems
   <img width="100%" />
 </picture>
 <br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/broiisapro/broiisapro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/broiisapro/broiisapro/output/github-contribution-grid-snake.svg">
-  <img width="100%" style="max-width: 800px;" />
-</picture>
 
 </div>
 
