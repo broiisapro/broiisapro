@@ -304,7 +304,7 @@ Load/record audio, spectrogram overlay, interactive pitch curve editing. Real-ti
 
 <!-- MORE PROJECTS -->
 <details>
-<summary style="font-size: 1.1em; cursor: pointer; color: #64748b;">More projects <span style="color: #60a5fa;">▼</span></summary>
+<summary style="font-size: 1.1em; cursor: pointer; color: #64748b;">More projects</summary>
 
 <br/>
 
@@ -340,81 +340,6 @@ Load/record audio, spectrogram overlay, interactive pitch curve editing. Real-ti
 <br/>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
-<br/>
-
-## Engineering Capabilities
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top" align="center">
-
-### AI Systems
-<br/>
-LLM Orchestration<br/>
-Prompt Engineering<br/>
-Agentic Workflows<br/>
-LangGraph<br/>
-OpenAI · Claude · Gemini<br/>
-OpenRouter<br/>
-Embeddings<br/>
-Fine-tuning
-
-    </td>
-    <td width="25%" valign="top" align="center">
-
-### Full Stack
-<br/>
-Next.js · React<br/>
-TypeScript · JavaScript<br/>
-Node.js · Express<br/>
-REST APIs<br/>
-Tailwind CSS<br/>
-Prisma · SQLAlchemy<br/>
-PostgreSQL · SQLite<br/>
-Python · C++ · Swift
-
-    </td>
-    <td width="25%" valign="top" align="center">
-
-### Infrastructure
-<br/>
-Docker · CI/CD<br/>
-GitHub Actions<br/>
-Supabase<br/>
-Vercel · FastAPI<br/>
-Turborepo<br/>
-Playwright<br/>
-Browser Automation<br/>
-Web Scraping
-
-    </td>
-    <td width="25%" valign="top" align="center">
-
-### Robotics & Hardware
-<br/>
-Embedded C++<br/>
-Raspberry Pi<br/>
-ESP32 · Arduino<br/>
-Sensor Fusion<br/>
-IOKit HID<br/>
-FIRST Robotics<br/>
-Computer Vision<br/>
-Mechanical Systems
-
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-<br/>
 
 ## Engineering Philosophy
 
@@ -471,44 +396,6 @@ Mechanical Systems
 
 </div>
 
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-<br/>
-
-## Architecture
-
-<div align="center">
-
-<pre style="background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 2em; text-align: left; font-size: 0.85em; line-height: 1.8; color: #94a3b8; overflow-x: auto;">
-<span style="color: #60a5fa;">Problem</span>  ──→  <span style="color: #a78bfa;">Research</span>  ──→  <span style="color: #34d399;">Architecture</span>  ──→  <span style="color: #f472b6;">Implementation</span>  ──→  <span style="color: #fbbf24;">Feedback</span>  ──→  <span style="color: #38bdf8;">Iteration</span>
-   │                │                │                  │                  │                 │
-   │                │                │                  │                  │                 │
-   ▼                ▼                ▼                  ▼                  ▼                 ▼
-<span style="color: #64748b;">Identify       Understand    Design          Write          Test             Ship</span>
-<span style="color: #64748b;">constraint     tradeoffs     systems        production     measure           v2</span>
-</pre>
-
-<br/>
-
-<pre style="background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 2em; text-align: left; font-size: 0.85em; line-height: 1.8; color: #94a3b8; overflow-x: auto;">
-<span style="color: #60a5fa;">┌─────────────────────────────────────────────────────────────────────┐</span>
-<span style="color: #60a5fa;">│</span>  <span style="color: #e2e8f0;">SYSTEM ARCHITECTURE</span>                                               <span style="color: #60a5fa;">│</span>
-<span style="color: #60a5fa;">│</span>                                                                     <span style="color: #60a5fa;">│</span>
-<span style="color: #60a5fa;">│</span>  <span style="color: #38bdf8;">Frontend</span>          <span style="color: #a78bfa;">API Layer</span>          <span style="color: #34d399;">Agent/Engine</span>        <span style="color: #f472b6;">Infrastructure</span>  <span style="color: #60a5fa;">│</span>
-<span style="color: #60a5fa;">│</span>  ─────────          ─────────          ────────────        ──────────────  <span style="color: #60a5fa;">│</span>
-<span style="color: #60a5fa;">│</span>  Next.js/React      REST/GraphQL       LangGraph            Docker         <span style="color: #60a5fa;">│</span>
-<span style="color: #60a5fa;">│</span>  SwiftUI            WebSocket           Gemini/Claude         CI/CD           <span style="color: #60a5fa;">│</span>
-<span style="color: #60a5fa;">│</span>  Recharts           JWT Auth            SEO/GEO Graphs        Supabase        <span style="color: #60a5fa;">│</span>
-<span style="color: #60a5fa;">│</span>  Three.js           Express/FastAPI     Celery/Redis          Vercel          <span style="color: #60a5fa;">│</span>
-<span style="color: #60a5fa;">│</span>                                                                     <span style="color: #60a5fa;">│</span>
-<span style="color: #60a5fa;">│</span>  <span style="color: #64748b;">←───────────── Data Flow ─────────────→</span>                              <span style="color: #60a5fa;">│</span>
-<span style="color: #60a5fa;">└─────────────────────────────────────────────────────────────────────┘</span>
-</pre>
-
-</div>
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 <br/>
 
 ## Building Now
@@ -643,46 +530,6 @@ Mechanical Systems
 </div>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-<br/>
-
-## GitHub
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=broiisapro&show_icons=true&theme=transparent&hide_border=true&text_color=94a3b8&icon_color=60a5fa&title_color=e2e8f0&number_format=long&count_private=true&include_all_commits=true&hide_title=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=broiisapro&show_icons=true&theme=transparent&hide_border=true&text_color=64748b&icon_color=3b82f6&title_color=0f172a&number_format=long&count_private=true&include_all_commits=true&hide_title=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-        <img width="450" />
-      </picture>
-    </td>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=broiisapro&layout=compact&theme=transparent&hide_border=true&text_color=94a3b8&title_color=e2e8f0&langs_count=8&hide=roff,html,css,scss">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=broiisapro&layout=compact&theme=transparent&hide_border=true&text_color=64748b&title_color=0f172a&langs_count=8&hide=roff,html,css,scss">
-        <img width="350" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=broiisapro&theme=github-dark&hide_border=true&area=true&point=60a5fa&line=6366f1&color=94a3b8&title_color=e2e8f0&bg_color=transparent&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=broiisapro&theme=github-light&hide_border=true&area=true&point=3b82f6&line=6366f1&color=64748b&title_color=0f172a&bg_color=transparent&hide_title=true">
-  <img width="100%" />
-</picture>
-<br/><br/>
-
-</div>
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-<br/>
 
 <div align="center">
 
@@ -716,8 +563,8 @@ Mechanical Systems
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:0f172a&height=120&section=footer&fontSize=0">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:dbeafe,100:f8fafc&height=120&section=footer&fontSize=0">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:0f172a&height=120&section=header&fontSize=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:dbeafe,100:f8fafc&height=120&section=header&fontSize=0">
   <img width="100%" />
 </picture>
 
