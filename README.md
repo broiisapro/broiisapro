@@ -563,8 +563,8 @@ Load/record audio, spectrogram overlay, interactive pitch curve editing. Real-ti
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:0f172a&height=120&section=footer&fontSize=0">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:dbeafe,100:f8fafc&height=120&section=footer&fontSize=0">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=120&section=header&fontSize=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,50:dbeafe,100:3b82f6&height=120&section=header&fontSize=0">
   <img width="100%" />
 </picture>
 
