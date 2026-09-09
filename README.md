@@ -20,7 +20,7 @@
 </h1>
 
 <p align="center" style="font-size: 1.15em; color: #94a3b8; max-width: 640px; margin: 0.5em auto; line-height: 1.6;">
-  Software Engineering Intern @ Magic Hour (YC W24)<br/>
+  Software Engineer @ Magic Hour (YC W24)<br/>
   AI Systems · Full Stack · Automation · Robotics · Developer Tooling<br/>
   Incoming Mechatronics & Robotics @ Queen's University
 </p>
