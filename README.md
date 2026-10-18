@@ -8,4 +8,4 @@ At Queen's I'm the Rover Communications Lead on QSET, the university rover team,
 
 - **[TickVault](link-to-repo)**: captures Coinbase and Kraken L2 order books, archives every raw message, and replays them into byte-identical Parquet tables. 448 tests, CI, and a [live dashboard](https://tickvault.streamlit.app).
 
-Looking for summer 2027 internships. Reach me at [email] or [LinkedIn].
+Looking for summer 2027 internships. Reach me at moksh.siruvani@gmail.com or linkedin.com/in/moksh-siruvani.
